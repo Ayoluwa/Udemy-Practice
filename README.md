@@ -1,0 +1,3 @@
+This is an app that simply displays the landing page of a 
+startups' website and thus provides some sort of insight,
+blueprint or framework into what is expected...

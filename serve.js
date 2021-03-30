@@ -54,6 +54,11 @@ app.get('/about', (req, res) => {
     });
 });
 
+app.get('/mypoem', (req, res) => {
+    res.render('pix.html')
+
+});
+
 
 
 
